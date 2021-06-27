@@ -1,10 +1,8 @@
 ## Hi there 👋, this is Meiyazhagan here...
 ![Profile views](https://gpvc.arturio.dev/Mr-Meiy)  <img src="https://img.shields.io/github/followers/Mr-Meiy?label=Follow" style=" float:left, margin-right:10px" /> [<img src="https://img.shields.io/badge/linkedin-follow-red" style=" float:left, margin-right:10px" />](https://www.linkedin.com/in/meiyazhagan-k-ab3b70151/)
 
-- 🔭 I'm currently working with Web Development
-- 🌱 I’m currently learning DotNet
+- 🔭 I'm currently working with MERN Stack.
 - 💬 Ask me about Full stack web devlopment
-- 🤔 I’m looking for help with ...
 - 👯 I’m looking to collaborate with my friends
 - 🥅 2021 Goals: Laern more than as I learned in 2020
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/meiyazhagan-k-ab3b70151/)
@@ -22,7 +20,7 @@
 
 ## image
 
-I am a passionate learner, doing in B.E., specialized in Computer Science and Engineering and I am a full stack web developer. My hobbies are listening to music, audio books :headphones:,reading books :book:, playing tennis :tennis: etc..
+I am a passionate learner, done B.E., specialized in Computer Science and Engineering and I am a full stack web developer. My hobbies are listening to music, audio books :headphones:,reading books :book:, playing tennis :tennis: etc..
 
 ![Meiyazhagan Github Status](https://github-readme-stats.vercel.app/api?username=Mr-Meiy&count_private=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Meiy)](https://github.com/Mr-Meiy/Mr-Meiy)
