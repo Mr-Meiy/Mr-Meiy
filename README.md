@@ -4,7 +4,7 @@
 - 🔭 I'm currently working with MERN Stack.
 - 💬 Ask me about Full stack web devlopment
 - 👯 I’m looking to collaborate with my friends
-- 🥅 2023 Goals: Laern more than as I learned in 2023
+- 🥅 2023 Goals: Laern more than as I learned in 2022
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/meiyazhagan-k-ab3b70151/)
 - ⚡ Fun fact: I love to listening music, exploring new places.
 
